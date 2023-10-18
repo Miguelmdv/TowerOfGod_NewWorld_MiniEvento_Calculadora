@@ -1,0 +1,29 @@
+{
+    "Puntos_Actuales": {
+        "puntos": 0,
+        "bronce": 0,
+        "plata": 0,
+        "oro": 0,
+        "morado": 0,
+        "rojo": 0,
+        "amarillo": 0
+    },
+    "Puntos_Maximos": {
+        "puntos": 10000,
+        "bronce": 10000,
+        "plata": 10000,
+        "oro": 10000,
+        "morado": 200,
+        "rojo": 200,
+        "amarillo": 200
+    },
+    "Puntos_Restantes": {
+        "puntos": 10000,
+        "bronce": 10000,
+        "plata": 10000,
+        "oro": 10000,
+        "morado": 200,
+        "rojo": 200,
+        "amarillo": 200
+    }
+}

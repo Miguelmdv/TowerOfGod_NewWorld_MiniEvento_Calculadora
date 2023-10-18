@@ -1,0 +1,35 @@
+{
+    "Puntos_Actuales": {
+        "puntos": 0,
+        "horquilla": 0,
+        "oso": 0,
+        "tacon": 0,
+        "s_escudo": 0,
+        "s_espada": 0,
+        "s_porra": 0,
+        "s_bombardero": 0,
+        "s_mago": 0
+    },
+    "Puntos_Maximos": {
+        "puntos": 10000,
+        "horquilla": 10000,
+        "oso": 10000,
+        "tacon": 10000,
+        "s_escudo": 50,
+        "s_espada": 50,
+        "s_porra": 50,
+        "s_bombardero": 50,
+        "s_mago": 50
+    },
+    "Puntos_Restantes": {
+        "puntos": 10000,
+        "horquilla": 10000,
+        "oso": 10000,
+        "tacon": 10000,
+        "s_escudo": 50,
+        "s_espada": 50,
+        "s_porra": 50,
+        "s_bombardero": 50,
+        "s_mago": 50
+    }
+}
