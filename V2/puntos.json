@@ -1,35 +1,35 @@
 {
     "Puntos_Actuales": {
-        "puntos": 0,
-        "horquilla": 0,
-        "oso": 0,
-        "tacon": 0,
-        "s_escudo": 0,
-        "s_espada": 0,
-        "s_porra": 0,
-        "s_bombardero": 0,
-        "s_mago": 0
+        "puntos": 30,
+        "horquillas": 0,
+        "osos": 57,
+        "tacones": 22,
+        "soldados_escudo": 0,
+        "soldados_espada": 0,
+        "soldados_porra": 1,
+        "soldados_bombardero": 1,
+        "soldados_mago": 0
     },
     "Puntos_Maximos": {
         "puntos": 10000,
-        "horquilla": 10000,
-        "oso": 10000,
-        "tacon": 10000,
-        "s_escudo": 50,
-        "s_espada": 50,
-        "s_porra": 50,
-        "s_bombardero": 50,
-        "s_mago": 50
+        "horquillas": 10000,
+        "osos": 10000,
+        "tacones": 10000,
+        "soldados_escudo": 50,
+        "soldados_espada": 50,
+        "soldados_porra": 50,
+        "soldados_bombardero": 50,
+        "soldados_mago": 50
     },
     "Puntos_Restantes": {
-        "puntos": 10000,
-        "horquilla": 10000,
-        "oso": 10000,
-        "tacon": 10000,
-        "s_escudo": 50,
-        "s_espada": 50,
-        "s_porra": 50,
-        "s_bombardero": 50,
-        "s_mago": 50
+        "puntos": 9970,
+        "horquillas": 10000,
+        "osos": 9943,
+        "tacones": 9978,
+        "soldados_escudo": 50,
+        "soldados_espada": 50,
+        "soldados_porra": 49,
+        "soldados_bombardero": 49,
+        "soldados_mago": 50
     }
 }
