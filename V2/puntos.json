@@ -1,14 +1,14 @@
 {
     "Puntos_Actuales":{
-        "puntos":1000,
-        "horquillas":3146,
-        "osos":617,
-        "tacones":534,
-        "soldados_escudo":18,
-        "soldados_espada":19,
-        "soldados_porra":8,
-        "soldados_bombardero":7,
-        "soldados_mago":8
+        "puntos":4260,
+        "horquillas":7126,
+        "osos":7457,
+        "tacones":5685,
+        "soldados_escudo":30,
+        "soldados_espada":31,
+        "soldados_porra":44,
+        "soldados_bombardero":44,
+        "soldados_mago":46
     },
     "Puntos_Maximos":{
         "puntos":10000,
@@ -22,14 +22,14 @@
         "soldados_mago":50
     },
     "Puntos_Restantes":{
-        "puntos":9000,
-        "horquillas":6854,
-        "osos":9383,
-        "tacones":9466,
-        "soldados_escudo":32,
-        "soldados_espada":31,
-        "soldados_porra":42,
-        "soldados_bombardero":43,
-        "soldados_mago":42
+        "puntos":5740,
+        "horquillas":2874,
+        "osos":2543,
+        "tacones":4315,
+        "soldados_escudo":20,
+        "soldados_espada":19,
+        "soldados_porra":6,
+        "soldados_bombardero":6,
+        "soldados_mago":4
     }
 }
